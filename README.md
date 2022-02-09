@@ -6,6 +6,40 @@ Record for practice answer on LeetCode
 <img width="1430" alt="image" src="https://user-images.githubusercontent.com/59593996/153138647-a782ead9-6c75-4284-8f90-f2796e185462.png">
 <img width="1438" alt="image" src="https://user-images.githubusercontent.com/59593996/153139016-6707ab09-5d26-4bae-ada6-02a9258892b9.png">
 <img width="1432" alt="image" src="https://user-images.githubusercontent.com/59593996/153139278-e698049f-c602-48b7-a3a4-70ab9432b443.png">
+<img width="1437" alt="image" src="https://user-images.githubusercontent.com/59593996/153140451-e1652781-eeba-447a-90d2-b88e1205ac19.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153141609-b395c75b-65df-4e92-87aa-61cddc18d169.png">
+<img width="1430" alt="image" src="https://user-images.githubusercontent.com/59593996/153141688-10f4ba6b-185a-47d2-a54d-e5a0fcb392ab.png">
+<img width="1335" alt="image" src="https://user-images.githubusercontent.com/59593996/153143656-4bdaecbf-100b-45f9-9d0e-e411c20edb3e.png">
+<img width="1416" alt="image" src="https://user-images.githubusercontent.com/59593996/153143707-0f868ddd-16c3-4fd6-88e1-4156b77cefcd.png">
+<img width="1399" alt="image" src="https://user-images.githubusercontent.com/59593996/153143761-65d08583-5261-467f-a7c1-4c606ffa7105.png">
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153144176-4d9443c3-bb59-4261-9e8c-251c94ef251e.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153144240-a7ba683c-6897-429c-bd95-c5d9ef43b3ea.png">
+<img width="1433" alt="image" src="https://user-images.githubusercontent.com/59593996/153144093-8bff4338-ff3e-4ff3-b768-b54696dfd272.png">
+
+<img width="1432" alt="image" src="https://user-images.githubusercontent.com/59593996/153145467-1389d7d3-c761-4b0a-98e1-249940415093.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153145557-0c3a2e52-3787-4797-8c20-6bcc4c351055.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153145164-52161283-8ff7-4429-b171-c1458fe6bbb9.png">
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153147971-c10ca698-db07-4891-97e2-fd43dd8a9617.png">
+<img width="1438" alt="image" src="https://user-images.githubusercontent.com/59593996/153148811-2901080c-2b50-46c1-9006-85c22942d49a.png">
+<img width="1437" alt="image" src="https://user-images.githubusercontent.com/59593996/153147482-0f769eab-56f2-4301-ba44-204585eb486e.png">
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153151020-ce0d4fc9-18af-4a44-bada-0127c875fd06.png">
+<img width="1420" alt="image" src="https://user-images.githubusercontent.com/59593996/153151361-551e4194-a617-4146-b2a0-39febd6594a3.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153150476-2e54eeab-a856-4f2b-8c25-1ecb6a3e03f3.png">
+
+<img width="1439" alt="image" src="https://user-images.githubusercontent.com/59593996/153153016-ce861462-8c16-41ce-82ce-fb998440f17c.png">
+<img width="1371" alt="image" src="https://user-images.githubusercontent.com/59593996/153153146-52b94938-3b76-4fb3-9adc-b5ca40cc00fc.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153152622-2c280882-5bb2-4571-8e1f-f27c8f204099.png">
+
+<img width="1439" alt="image" src="https://user-images.githubusercontent.com/59593996/153155606-b0744914-19fb-4018-a94a-37c18993855d.png">
+<img width="1436" alt="image" src="https://user-images.githubusercontent.com/59593996/153155684-993909d8-305a-47f1-8d2a-739ed5bb7040.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153155314-780cdace-52e9-439e-a90a-12aea484f3bd.png">
+
+
+
+
 
 CSDN Help
 ## 新的改变
