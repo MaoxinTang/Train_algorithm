@@ -38,6 +38,34 @@ Record for practice answer on LeetCode
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153155314-780cdace-52e9-439e-a90a-12aea484f3bd.png">
 
 
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153307874-1602caa9-10d4-48d9-be9e-c181a8b392c5.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153308005-fa8fde08-f757-46dc-b03f-b2631f0a6922.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153308082-9cef8d9e-32ec-4a0f-9453-51ae59de757e.png">
+
+<img width="1438" alt="image" src="https://user-images.githubusercontent.com/59593996/153336166-f9f5ddf2-38be-4e63-a161-822b3be7d74e.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153336680-927f7ec2-f576-446c-8a81-36aba65e43a5.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153337282-bbe513e6-ab30-4cb2-9b8f-93b8aa66f96c.png">
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153340307-3b47a2e8-97e3-48ad-934c-422a253efc9f.png">
+<img width="1439" alt="image" src="https://user-images.githubusercontent.com/59593996/153340683-b73c4920-56e2-49d7-9455-9eba3b6306e6.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153340952-baa5b3ca-b697-4aaa-b946-73fc46511f1c.png">
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153341488-39ce8218-b551-4cfb-b8c9-c226bc2b6df1.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153342045-9cd83f49-5ef6-4f79-b8ca-730b2b641e32.png">
+<img width="1439" alt="image" src="https://user-images.githubusercontent.com/59593996/153342271-c3132aed-df40-4ade-85f2-e9bb5ecfc630.png">
+
+<img width="1437" alt="image" src="https://user-images.githubusercontent.com/59593996/153343081-ac230c1e-54ef-467d-9bd4-704b035a720f.png">
+<img width="1436" alt="image" src="https://user-images.githubusercontent.com/59593996/153344893-07a82090-0e30-4bfc-add5-67d71ff9dd71.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153345471-80ae0bfc-340e-4fcd-9b74-87767077d360.png">
+
+<img width="1433" alt="image" src="https://user-images.githubusercontent.com/59593996/153347150-e5f52727-9c42-416e-b111-5315dcdcc336.png">
+<img width="1432" alt="image" src="https://user-images.githubusercontent.com/59593996/153347392-8673b08c-fec4-45c0-833a-11632579401c.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153351328-7af2ab16-661d-49cb-a272-5612a22cd137.png">
+<img width="1438" alt="image" src="https://user-images.githubusercontent.com/59593996/153352928-a273b3c2-09c9-43f4-b107-d65b969e9c1b.png">
+<img width="1412" alt="image" src="https://user-images.githubusercontent.com/59593996/153355761-68c6023e-e258-49e3-8941-5a216c7db576.png">
+
+
+
 
 
 
