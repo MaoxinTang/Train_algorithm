@@ -64,9 +64,45 @@ Record for practice answer on LeetCode
 <img width="1438" alt="image" src="https://user-images.githubusercontent.com/59593996/153352928-a273b3c2-09c9-43f4-b107-d65b969e9c1b.png">
 <img width="1412" alt="image" src="https://user-images.githubusercontent.com/59593996/153355761-68c6023e-e258-49e3-8941-5a216c7db576.png">
 
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153544317-7550550d-53dc-47b4-b804-0585e520c832.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153544952-555792dd-e3bd-4acb-ae61-3012cba38c16.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153545124-b80e076e-c6fc-493c-9483-9c10ed748646.png">
 
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153545648-0ff36ad3-ed6f-4f37-b746-2c393932d1e8.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153545835-b87fcc68-75d4-4234-8fd6-c3511ec31675.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153545997-8880facd-60bb-4984-b961-2981ef0df1a1.png">
 
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153546183-33d3868d-7ccf-4e0d-85ee-4c941ea28f08.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153546504-312ba323-3bc4-4de6-92f2-468355365dca.png">
+<img width="1431" alt="image" src="https://user-images.githubusercontent.com/59593996/153547234-908db8d1-7093-4ba4-95ac-6e8b2614aca8.png">
 
+<img width="1439" alt="image" src="https://user-images.githubusercontent.com/59593996/153548757-1259ff9d-b8a3-4eb8-9a81-6306162ebeaf.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153549005-121b7f28-bf09-4519-969c-7c447aeb7f1e.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153549235-7b9e8875-7ec5-4d3c-8cf7-9bd22b6d422f.png">
+
+<img width="1434" alt="image" src="https://user-images.githubusercontent.com/59593996/153551179-219c974e-e3c9-4d1d-998d-11818b5acf0a.png">
+<img width="1436" alt="image" src="https://user-images.githubusercontent.com/59593996/153551546-65f0aac0-7636-4377-8a6e-19c3eabcb6a3.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153551596-ce4ac2f1-0504-4e93-a252-c2629cb82905.png">
+
+<img width="1435" alt="image" src="https://user-images.githubusercontent.com/59593996/153552475-158b7884-42a9-4338-8217-e0359b740f89.png">
+<img width="1430" alt="image" src="https://user-images.githubusercontent.com/59593996/153553055-720d0ae2-bd09-45bb-a83e-622abfcb1abb.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153553358-0c2c5207-bcdb-4d1e-8faf-2f25003cdbd7.png">
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153554320-6dae8a5f-0f56-41e2-b58d-4eb045f06888.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153556759-69aa4577-4a7e-4dc3-a35b-7ebc998dfa5b.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153556873-13450b5c-2709-4991-9bb2-c68e56fedb5a.png">
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153557795-11bb2dc8-358c-4e7a-ba93-bc04a7c355ba.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153558017-e8758652-65d4-4008-9397-4907502433bf.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153558089-22a3c8d5-3e98-4f1c-bf64-86865fbd032f.png">
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153561482-741dc0ab-0705-46ba-b2ce-f3cc15a12271.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153561957-5baefe3f-4bbd-44af-957c-cf4eb1913e56.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153562019-75734816-3c40-4ecf-a140-73c224b2ffde.png">
+
+<img width="1435" alt="image" src="https://user-images.githubusercontent.com/59593996/153562664-e5586cf6-8f93-441f-997f-08c21b414755.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153564190-0f756238-ed4e-46de-9db1-98fe052cbf6c.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59593996/153564326-b83e6f08-0a26-4857-b5d7-5f62acc1bc60.png">
 
 
 CSDN Help
